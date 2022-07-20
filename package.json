@@ -1,0 +1,16 @@
+{
+  "name": "tower-cms-directus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx directus start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^9.13.0",
+    "pg": "^8.7.3"
+  }
+}
